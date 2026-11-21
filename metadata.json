@@ -1,0 +1,8 @@
+{
+  "name": "PulseCX — Khảo sát & Phân tích Hài lòng Khách hàng",
+  "description": "Nền tảng khảo sát trải nghiệm khách hàng tối ưu di động và phân tích phản hồi mở bằng AI cho Marketing, Thương mại điện tử, Dịch vụ khách hàng và Quản trị chất lượng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

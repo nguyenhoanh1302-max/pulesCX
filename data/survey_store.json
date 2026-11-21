@@ -1,0 +1,517 @@
+{
+  "config": {
+    "id": "cx-q4-2026",
+    "title": "Khảo sát Trải nghiệm Khách hàng Toàn kênh Q4/2026",
+    "estimatedMinutes": 2,
+    "isActive": true,
+    "welcomeNote": "Ý kiến của bạn giúp đội ngũ Marketing, Thương mại điện tử, Dịch vụ khách hàng và Quản trị chất lượng cải thiện từng điểm chạm thực tế.",
+    "updatedAt": "2026-11-20T09:00:00Z"
+  },
+  "responses": [
+    {
+      "id": "CX-2611-018",
+      "createdAt": "2026-11-20T09:15:00.000Z",
+      "completionSeconds": 108,
+      "channel": "ecommerce",
+      "csat": 5,
+      "nps": 10,
+      "aspectScores": {
+        "speed": 5,
+        "quality": 5,
+        "experience": 5,
+        "staff": 5
+      },
+      "positiveFeedback": "Đặt hàng trên điện thoại rất mượt, mã giảm giá tự áp dụng ở bước thanh toán và giao hàng chỉ sau 18 giờ.",
+      "improvementFeedback": "Nếu bổ sung thêm thông báo khung giờ giao chính xác trước 1 tiếng qua SMS hoặc Zalo sẽ còn tiện hơn nữa cho người đi làm.",
+      "customerSegment": "Khách hàng thân thiết",
+      "aiAnalysis": {
+        "sentiment": "positive",
+        "sentimentScore": 92,
+        "themes": [
+          "Tốc độ giao hàng",
+          "Trải nghiệm thanh toán di động",
+          "Thông báo giao nhận"
+        ],
+        "summary": "Khách hàng đánh giá rất cao tốc độ giao hàng 18 giờ và thanh toán mượt trên di động, đề xuất bổ sung thông báo khung giờ giao trước 1 tiếng.",
+        "actionPriority": "low",
+        "suggestedTeam": "Vận hành & Giao nhận",
+        "analyzedAt": "2026-11-20T09:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-017",
+      "createdAt": "2026-11-19T14:15:00.000Z",
+      "completionSeconds": 134,
+      "channel": "cskh",
+      "csat": 2,
+      "nps": 4,
+      "aspectScores": {
+        "speed": 2,
+        "quality": 3,
+        "experience": 2,
+        "staff": 4
+      },
+      "positiveFeedback": "Nhân viên trực tổng đài nói chuyện lịch sự, nắm rõ quy trình đổi trả khi tiếp nhận hồ sơ.",
+      "improvementFeedback": "Tôi phải chờ kết nối máy hơn 12 phút vào giờ trưa, sau đó hệ thống tự ngắt cuộc gọi một lần nên phải trình bày lại mã đơn từ đầu. Mong công ty tăng nhân sự hỗ trợ hoặc bổ sung tính năng giữ chỗ gọi lại.",
+      "customerSegment": "Khách hàng mới",
+      "aiAnalysis": {
+        "sentiment": "negative",
+        "sentimentScore": 28,
+        "themes": [
+          "Thời gian chờ tổng đài",
+          "Lỗi ngắt kết nối",
+          "Thái độ nhân viên tốt"
+        ],
+        "summary": "Khách hàng hài lòng với thái độ nhân viên nhưng bức xúc vì chờ tổng đài quá 12 phút và bị rớt cuộc gọi phải khai báo lại.",
+        "actionPriority": "high",
+        "suggestedTeam": "Chăm sóc khách hàng",
+        "analyzedAt": "2026-11-19T14:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-016",
+      "createdAt": "2026-11-18T11:15:00.000Z",
+      "completionSeconds": 95,
+      "channel": "quality",
+      "csat": 4,
+      "nps": 8,
+      "aspectScores": {
+        "speed": 4,
+        "quality": 5,
+        "experience": 4,
+        "staff": 4
+      },
+      "positiveFeedback": "Chất lượng hoàn thiện sản phẩm rất chắc chắn, đúng thông số mô tả và hộp đóng gói chống sốc kỹ.",
+      "improvementFeedback": "Tài liệu hướng dẫn sử dụng in chữ hơi nhỏ, nên có thêm mã QR dẫn tới video hướng dẫn tiếng Việt.",
+      "customerSegment": "Doanh nghiệp (B2B)",
+      "aiAnalysis": {
+        "sentiment": "positive",
+        "sentimentScore": 81,
+        "themes": [
+          "Chất lượng sản phẩm",
+          "Đóng gói an toàn",
+          "Tài liệu hướng dẫn"
+        ],
+        "summary": "Đánh giá cao chất lượng hoàn thiện và đóng gói, gợi ý thêm mã QR video hướng dẫn tiếng Việt thay cho chữ in nhỏ.",
+        "actionPriority": "low",
+        "suggestedTeam": "Quản trị chất lượng",
+        "analyzedAt": "2026-11-18T11:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-015",
+      "createdAt": "2026-11-17T16:15:00.000Z",
+      "completionSeconds": 142,
+      "channel": "marketing",
+      "csat": 3,
+      "nps": 6,
+      "aspectScores": {
+        "speed": 4,
+        "quality": 3,
+        "experience": 3,
+        "staff": 3
+      },
+      "positiveFeedback": "Hình ảnh chiến dịch thu hút, dễ hiểu các dòng sản phẩm mới ra mắt.",
+      "improvementFeedback": "Banner quảng cáo ghi giảm tới 40% nhưng khi bấm vào chỉ áp dụng cho vài mẫu cũ và không ghi rõ điều kiện đơn tối thiểu ngay trên ảnh, gây mất thời gian tìm hiểu.",
+      "customerSegment": "Khách hàng mới"
+    },
+    {
+      "id": "CX-2611-014",
+      "createdAt": "2026-11-15T10:15:00.000Z",
+      "completionSeconds": 112,
+      "channel": "ecommerce",
+      "csat": 5,
+      "nps": 9,
+      "aspectScores": {
+        "speed": 5,
+        "quality": 5,
+        "experience": 5,
+        "staff": 4
+      },
+      "positiveFeedback": "Theo dõi hành trình đơn hàng theo thời gian thực rất rõ ràng, đổi địa chỉ nhận hàng trước khi xuất kho chỉ mất 1 chạm.",
+      "improvementFeedback": "Mong có thêm tùy chọn xuất hóa đơn điện tử VAT tự động ngay trong lịch sử đơn hàng thay vì phải nhắn CSKH.",
+      "customerSegment": "Doanh nghiệp (B2B)",
+      "aiAnalysis": {
+        "sentiment": "positive",
+        "sentimentScore": 88,
+        "themes": [
+          "Theo dõi đơn hàng",
+          "Xuất hóa đơn VAT",
+          "Trải nghiệm tự phục vụ"
+        ],
+        "summary": "Hài lòng cao với tính năng theo dõi đơn hàng và đổi địa chỉ nhanh; đề xuất tự động hóa xuất hóa đơn VAT trong tài khoản.",
+        "actionPriority": "medium",
+        "suggestedTeam": "Vận hành & Giao nhận",
+        "analyzedAt": "2026-11-15T10:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-013",
+      "createdAt": "2026-11-13T15:15:00.000Z",
+      "completionSeconds": 126,
+      "channel": "quality",
+      "csat": 2,
+      "nps": 3,
+      "aspectScores": {
+        "speed": 3,
+        "quality": 2,
+        "experience": 2,
+        "staff": 3
+      },
+      "positiveFeedback": "Quy trình xác nhận bảo hành điện tử khá nhanh sau khi gửi ảnh.",
+      "improvementFeedback": "Lô hàng tôi nhận đợt đầu tháng bị lỗi đường chỉ may ở mép túi và khóa kéo hơi rít. Dù đã được đổi mới nhưng khâu kiểm tra xuất xưởng cần siết chặt hơn để khách hàng không mất công chờ đổi.",
+      "customerSegment": "Khách hàng thân thiết",
+      "aiAnalysis": {
+        "sentiment": "negative",
+        "sentimentScore": 24,
+        "themes": [
+          "Lỗi hoàn thiện sản phẩm",
+          "Kiểm soát chất lượng xuất xưởng",
+          "Đổi trả bảo hành"
+        ],
+        "summary": "Phản ánh lỗi đường chỉ và khóa kéo trên lô hàng đầu tháng; ghi nhận bảo hành nhanh nhưng yêu cầu siết chặt QC xuất xưởng.",
+        "actionPriority": "high",
+        "suggestedTeam": "Quản trị chất lượng",
+        "analyzedAt": "2026-11-13T15:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-012",
+      "createdAt": "2026-11-10T13:15:00.000Z",
+      "completionSeconds": 98,
+      "channel": "cskh",
+      "csat": 5,
+      "nps": 10,
+      "aspectScores": {
+        "speed": 5,
+        "quality": 5,
+        "experience": 5,
+        "staff": 5
+      },
+      "positiveFeedback": "Bạn tư vấn viên hỗ trợ kiểm tra tồn kho chi nhánh và giữ hàng giúp mình trong 15 phút, giải thích chính sách rất rõ ràng.",
+      "improvementFeedback": "Hiện tại mình hoàn toàn hài lòng, không có điểm trừ.",
+      "customerSegment": "Khách hàng thân thiết",
+      "aiAnalysis": {
+        "sentiment": "positive",
+        "sentimentScore": 96,
+        "themes": [
+          "Tư vấn tận tâm",
+          "Kiểm tra tồn kho nhanh",
+          "Minh bạch chính sách"
+        ],
+        "summary": "Khen ngợi tư vấn viên phản hồi nhanh trong 15 phút, kiểm tra tồn kho và giải thích chính sách minh bạch.",
+        "actionPriority": "low",
+        "suggestedTeam": "Chăm sóc khách hàng",
+        "analyzedAt": "2026-11-10T13:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-011",
+      "createdAt": "2026-11-07T17:15:00.000Z",
+      "completionSeconds": 118,
+      "channel": "marketing",
+      "csat": 4,
+      "nps": 8,
+      "aspectScores": {
+        "speed": 4,
+        "quality": 4,
+        "experience": 4,
+        "staff": 4
+      },
+      "positiveFeedback": "Email thông báo chương trình thành viên cá nhân hóa đúng sản phẩm mình đang quan tâm.",
+      "improvementFeedback": "Tần suất gửi tin nhắn khuyến mãi cuối tuần hơi dày (2–3 tin/ngày), nên gộp thành 1 bản tin tổng hợp.",
+      "customerSegment": "Khách hàng thân thiết",
+      "aiAnalysis": {
+        "sentiment": "neutral",
+        "sentimentScore": 68,
+        "themes": [
+          "Cá nhân hóa email",
+          "Tần suất thông báo khuyến mãi"
+        ],
+        "summary": "Đánh giá tốt nội dung cá nhân hóa qua email nhưng góp ý giảm tần suất gửi tin khuyến mãi cuối tuần.",
+        "actionPriority": "medium",
+        "suggestedTeam": "Marketing & Chiến dịch",
+        "analyzedAt": "2026-11-07T17:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-010",
+      "createdAt": "2026-11-03T10:15:00.000Z",
+      "completionSeconds": 150,
+      "channel": "ecommerce",
+      "csat": 3,
+      "nps": 6,
+      "aspectScores": {
+        "speed": 2,
+        "quality": 4,
+        "experience": 3,
+        "staff": 4
+      },
+      "positiveFeedback": "Sản phẩm nhận được đúng màu sắc và chất lượng tốt như ảnh chụp.",
+      "improvementFeedback": "Đợt sale lớn giao hàng bị trễ 2 ngày so với dự kiến ban đầu mà không có tin nhắn cập nhật tiến độ từ đơn vị vận chuyển.",
+      "customerSegment": "Khách hàng mới"
+    },
+    {
+      "id": "CX-2611-009",
+      "createdAt": "2026-10-30T12:15:00.000Z",
+      "completionSeconds": 105,
+      "channel": "cskh",
+      "csat": 4,
+      "nps": 9,
+      "aspectScores": {
+        "speed": 4,
+        "quality": 4,
+        "experience": 4,
+        "staff": 5
+      },
+      "positiveFeedback": "Kênh chat trực tuyến phản hồi nhanh dưới 2 phút, gửi ảnh đối chiếu bảo hành trực tiếp rất tiện.",
+      "improvementFeedback": "Mong hệ thống chat lưu lại lịch sử hội thoại theo mã tài khoản để lần sau không cần nhắc lại ngữ cảnh.",
+      "customerSegment": "Khách hàng thân thiết",
+      "aiAnalysis": {
+        "sentiment": "positive",
+        "sentimentScore": 84,
+        "themes": [
+          "Tốc độ chat trực tuyến",
+          "Lưu lịch sử hỗ trợ"
+        ],
+        "summary": "Hài lòng với tốc độ phản hồi chat dưới 2 phút, đề xuất lưu lịch sử hội thoại theo tài khoản khách hàng.",
+        "actionPriority": "medium",
+        "suggestedTeam": "Chăm sóc khách hàng",
+        "analyzedAt": "2026-10-30T12:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-008",
+      "createdAt": "2026-10-26T09:15:00.000Z",
+      "completionSeconds": 132,
+      "channel": "quality",
+      "csat": 4,
+      "nps": 8,
+      "aspectScores": {
+        "speed": 4,
+        "quality": 4,
+        "experience": 4,
+        "staff": 4
+      },
+      "positiveFeedback": "Bao bì mới thân thiện môi trường, không còn dùng nhiều xốp nhựa nhưng vẫn bảo vệ hộp sản phẩm nguyên vẹn.",
+      "improvementFeedback": "Nên in thêm tem niêm phong rõ ngày đóng gói để tăng độ tin cậy khi nhận hàng.",
+      "customerSegment": "Khách hàng mới",
+      "aiAnalysis": {
+        "sentiment": "positive",
+        "sentimentScore": 79,
+        "themes": [
+          "Bao bì thân thiện môi trường",
+          "Tem niêm phong chất lượng"
+        ],
+        "summary": "Ủng hộ bao bì xanh bảo vệ tốt sản phẩm, đề xuất bổ sung tem niêm phong ghi ngày đóng gói.",
+        "actionPriority": "low",
+        "suggestedTeam": "Quản trị chất lượng",
+        "analyzedAt": "2026-10-26T09:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-007",
+      "createdAt": "2026-10-20T14:15:00.000Z",
+      "completionSeconds": 121,
+      "channel": "ecommerce",
+      "csat": 4,
+      "nps": 8,
+      "aspectScores": {
+        "speed": 4,
+        "quality": 4,
+        "experience": 4,
+        "staff": 4
+      },
+      "positiveFeedback": "Bộ lọc tìm kiếm theo kích thước và ngân sách giúp chọn sản phẩm rất nhanh trên mobile.",
+      "improvementFeedback": "Phần đánh giá của người mua trước nên cho phép lọc theo phân loại đã mua để tham khảo chính xác hơn.",
+      "customerSegment": "Khách hàng mới",
+      "aiAnalysis": {
+        "sentiment": "positive",
+        "sentimentScore": 80,
+        "themes": [
+          "Bộ lọc tìm kiếm di động",
+          "Lọc đánh giá theo phân loại"
+        ],
+        "summary": "Đánh giá cao bộ lọc tìm kiếm trên mobile, gợi ý thêm bộ lọc bình luận theo phân loại sản phẩm.",
+        "actionPriority": "low",
+        "suggestedTeam": "Vận hành & Giao nhận",
+        "analyzedAt": "2026-10-20T14:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-006",
+      "createdAt": "2026-10-14T16:15:00.000Z",
+      "completionSeconds": 145,
+      "channel": "marketing",
+      "csat": 2,
+      "nps": 4,
+      "aspectScores": {
+        "speed": 3,
+        "quality": 3,
+        "experience": 2,
+        "staff": 3
+      },
+      "positiveFeedback": "Video giới thiệu sản phẩm thực tế quay chi tiết, nhìn rõ kích thước.",
+      "improvementFeedback": "Mã ưu đãi gửi qua tin nhắn bị báo hết lượt chỉ sau 30 phút phát hành khiến trải nghiệm săn ưu đãi khá hụt hẫng. Cần ghi rõ số lượng giới hạn.",
+      "customerSegment": "Khách hàng thân thiết",
+      "aiAnalysis": {
+        "sentiment": "negative",
+        "sentimentScore": 31,
+        "themes": [
+          "Minh bạch mã ưu đãi",
+          "Số lượng voucher giới hạn"
+        ],
+        "summary": "Thích video sản phẩm nhưng không hài lòng khi mã ưu đãi hết lượt quá nhanh mà không ghi rõ số lượng giới hạn.",
+        "actionPriority": "high",
+        "suggestedTeam": "Marketing & Chiến dịch",
+        "analyzedAt": "2026-10-14T16:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-005",
+      "createdAt": "2026-10-09T11:15:00.000Z",
+      "completionSeconds": 99,
+      "channel": "cskh",
+      "csat": 4,
+      "nps": 8,
+      "aspectScores": {
+        "speed": 4,
+        "quality": 4,
+        "experience": 4,
+        "staff": 5
+      },
+      "positiveFeedback": "Nhân viên chủ động gọi xác nhận hoàn tiền xong xuôi chỉ sau 1 ngày gửi trả hàng.",
+      "improvementFeedback": "Nên gửi thêm biên nhận hoàn tiền qua email để khách doanh nghiệp dễ đối soát kế toán.",
+      "customerSegment": "Doanh nghiệp (B2B)",
+      "aiAnalysis": {
+        "sentiment": "positive",
+        "sentimentScore": 85,
+        "themes": [
+          "Hoàn tiền nhanh",
+          "Biên nhận đối soát B2B"
+        ],
+        "summary": "Đánh giá cao tốc độ hoàn tiền trong 1 ngày; đề xuất gửi biên nhận email phục vụ đối soát kế toán.",
+        "actionPriority": "medium",
+        "suggestedTeam": "Chăm sóc khách hàng",
+        "analyzedAt": "2026-10-09T11:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-004",
+      "createdAt": "2026-10-03T15:15:00.000Z",
+      "completionSeconds": 115,
+      "channel": "quality",
+      "csat": 5,
+      "nps": 9,
+      "aspectScores": {
+        "speed": 4,
+        "quality": 5,
+        "experience": 5,
+        "staff": 5
+      },
+      "positiveFeedback": "Sử dụng hơn 2 tháng vẫn giữ form chuẩn và hoạt động ổn định, chất lượng xứng đáng với giá tiền.",
+      "improvementFeedback": "Mong công ty mở rộng thêm nhiều lựa chọn màu trung tính cho dòng cao cấp.",
+      "customerSegment": "Khách hàng thân thiết",
+      "aiAnalysis": {
+        "sentiment": "positive",
+        "sentimentScore": 91,
+        "themes": [
+          "Độ bền sản phẩm",
+          "Mở rộng bảng màu"
+        ],
+        "summary": "Khách hàng hài lòng với độ bền sau 2 tháng sử dụng và đề xuất bổ sung thêm màu trung tính.",
+        "actionPriority": "low",
+        "suggestedTeam": "Quản trị chất lượng",
+        "analyzedAt": "2026-10-03T15:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-003",
+      "createdAt": "2026-09-28T10:15:00.000Z",
+      "completionSeconds": 128,
+      "channel": "ecommerce",
+      "csat": 3,
+      "nps": 6,
+      "aspectScores": {
+        "speed": 3,
+        "quality": 4,
+        "experience": 3,
+        "staff": 3
+      },
+      "positiveFeedback": "Phương thức thanh toán QR ngân hàng xác nhận ngay lập tức, không bị treo giao dịch.",
+      "improvementFeedback": "Phí vận chuyển ngoại thành hơi cao nếu đơn dưới 500 nghìn, mong có gói gom đơn hoặc freeship cuối tuần.",
+      "customerSegment": "Khách hàng mới",
+      "aiAnalysis": {
+        "sentiment": "neutral",
+        "sentimentScore": 58,
+        "themes": [
+          "Thanh toán QR nhanh",
+          "Phí vận chuyển ngoại thành"
+        ],
+        "summary": "Hài lòng với thanh toán QR tức thời nhưng cho rằng phí ship ngoại thành còn cao với đơn nhỏ.",
+        "actionPriority": "medium",
+        "suggestedTeam": "Vận hành & Giao nhận",
+        "analyzedAt": "2026-09-28T10:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-002",
+      "createdAt": "2026-09-20T13:15:00.000Z",
+      "completionSeconds": 110,
+      "channel": "marketing",
+      "csat": 4,
+      "nps": 8,
+      "aspectScores": {
+        "speed": 4,
+        "quality": 4,
+        "experience": 4,
+        "staff": 4
+      },
+      "positiveFeedback": "Bài viết hướng dẫn phối chọn sản phẩm trên blog rất hữu ích và khách quan.",
+      "improvementFeedback": "Nên gắn liên kết trực tiếp từ bài viết sang đúng phiên bản sản phẩm còn hàng.",
+      "customerSegment": "Khách hàng mới",
+      "aiAnalysis": {
+        "sentiment": "positive",
+        "sentimentScore": 78,
+        "themes": [
+          "Nội dung tư vấn hữu ích",
+          "Liên kết mua hàng từ bài viết"
+        ],
+        "summary": "Khen ngợi nội dung blog hướng dẫn thực tế, đề xuất gắn link trực tiếp đến sản phẩm còn tồn kho.",
+        "actionPriority": "low",
+        "suggestedTeam": "Marketing & Chiến dịch",
+        "analyzedAt": "2026-09-20T13:15:00.000Z"
+      }
+    },
+    {
+      "id": "CX-2611-001",
+      "createdAt": "2026-09-12T09:15:00.000Z",
+      "completionSeconds": 138,
+      "channel": "cskh",
+      "csat": 3,
+      "nps": 5,
+      "aspectScores": {
+        "speed": 3,
+        "quality": 3,
+        "experience": 3,
+        "staff": 4
+      },
+      "positiveFeedback": "Nhân viên giao nhận nhiệt tình hỗ trợ kiểm tra hàng tại chỗ.",
+      "improvementFeedback": "Tổng đài ngoài giờ hành chính chỉ có trả lời tự động, chưa giải quyết được yêu cầu đổi địa chỉ khẩn cấp buổi tối.",
+      "customerSegment": "Khách hàng thân thiết",
+      "aiAnalysis": {
+        "sentiment": "neutral",
+        "sentimentScore": 52,
+        "themes": [
+          "Hỗ trợ ngoài giờ hành chính",
+          "Đổi địa chỉ giao khẩn"
+        ],
+        "summary": "Ghi nhận nhân viên giao hàng thân thiện nhưng cần nâng cấp khả năng xử lý đổi địa chỉ buổi tối ngoài giờ hành chính.",
+        "actionPriority": "medium",
+        "suggestedTeam": "Chăm sóc khách hàng",
+        "analyzedAt": "2026-09-12T09:15:00.000Z"
+      }
+    }
+  ],
+  "lastAggregateReport": null
+}
